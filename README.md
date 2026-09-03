@@ -11,7 +11,7 @@ Nidou est une application mobile pensée pour simplifier la vie des parents en c
 Nidou vise à réunir au même endroit les informations provenant de différentes plateformes scolaires, notamment :
 
 - 📚 PRONOTE
-- 🏫 School & Go
+- 🏫 Skolengo
 - 📝 Devoirs et évaluations
 - 📅 Emploi du temps
 - 🔔 Notifications importantes
